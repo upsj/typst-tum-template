@@ -1,0 +1,6 @@
+compile_commands.json
+*.pdf
+.DS_Store
+0*
+!*.cpp
+!*.typ
